@@ -1,4 +1,4 @@
-# KusionStack CLA
+# Tongsuo CLA
 
 ![](CLA.png)
 
