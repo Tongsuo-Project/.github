@@ -10,6 +10,7 @@
 * curl: 支持国密的curl版本
 * tongsuo-java-sdk: 铜锁的Java语言封装
 * tongsuo-python-sdk: 铜锁的Python语言封装
+* tongsuo-go-sdk: 铜锁的Go语言封装
 * php-src: 铜锁的PHP语言封装
 * tongsuo-benchmark: 铜锁性能测试网站的代码
 * proxy-tongsuo: Envoy适配铜锁
