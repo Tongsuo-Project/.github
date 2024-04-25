@@ -9,8 +9,10 @@
 
 具体如下：
 
-* Tongsuo: 铜锁密码库标准版代码仓库
 * RustyVault: RustyVault代码仓库
+* rust-tongsuo: 铜锁标准版的Rust语言封装
+* Tongsuo: 铜锁密码库标准版代码仓库
+* docs: 铜锁密码库标准版的文档仓库
 * tongsuo-mini: 迷你锁代码仓库
 * wrk: 支持国密的wrk版本
 * curl: 支持国密的curl版本
@@ -20,5 +22,7 @@
 * php-src: 铜锁的PHP语言封装
 * tongsuo-benchmark: 铜锁性能测试网站的代码
 * proxy-tongsuo: Envoy适配铜锁
+
+废弃和归档仓库：
 * python-crypto: 废弃的铜锁的Python语言封装
-* rust-tongsuo: 铜锁标准版的Rust语言封装
+* tongsuo-doc：弃用，改为使用docs仓库，本仓库归档
